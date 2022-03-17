@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/media/static/css/main.0869595f.css",
+    "main.js": "/media/static/js/main.17eea68c.js",
+    "static/media/1.mp3": "/media/static/media/1.f8e416c66d38dbaa21d9.mp3",
+    "static/media/Led Zeppelin - in through the out door - 1 - in the evening.mp3": "/media/static/media/Led Zeppelin - in through the out door - 1 - in the evening.52b25ff578bdb77dd891.mp3",
+    "static/media/Led Zeppelin - in through the out door - 3 - fool in the rain.mp3": "/media/static/media/Led Zeppelin - in through the out door - 3 - fool in the rain.440d3e13925157cc6f28.mp3",
+    "static/media/2.mp3": "/media/static/media/2.7428ab6f6b765b78482d.mp3",
+    "static/media/Led Zeppelin - in through the out door - 2 - south bound saurez.mp3": "/media/static/media/Led Zeppelin - in through the out door - 2 - south bound saurez.b46ab7a231d18de1d42d.mp3",
+    "static/media/led-z-2.jpg": "/media/static/media/led-z-2.ba767914ca43a77a1219.jpg",
+    "static/media/led-z-1.jpg": "/media/static/media/led-z-1.0dfd0e284fc67ee09bee.jpg",
+    "static/media/led-z-3.jpg": "/media/static/media/led-z-3.19bf3d100af2aaa47d61.jpg",
+    "index.html": "/media/index.html",
+    "main.0869595f.css.map": "/media/static/css/main.0869595f.css.map",
+    "main.17eea68c.js.map": "/media/static/js/main.17eea68c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0869595f.css",
+    "static/js/main.17eea68c.js"
+  ]
+}
